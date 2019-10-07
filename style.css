@@ -1,0 +1,20 @@
+h1 {
+	font-size: 60px;
+	color: #4ae894;
+}
+p {
+	font-size: 40px;
+	color: #4ae894;
+}
+input {
+	font-size: 40px;
+	box-shadow: 10px 10px 5px gray;
+	background: yellow;
+}
+label {
+	font-size: 15px;
+	color: #4ae894;
+}
+g {
+	color: blue;
+}
